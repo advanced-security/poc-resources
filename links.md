@@ -13,6 +13,7 @@
 * [CodeQL CWE Coverage](https://codeql.github.com/codeql-query-help/codeql-cwe-coverage/)
 * [Supported languages and frameworks](https://codeql.github.com/docs/codeql-overview/supported-languages-and-frameworks/)
 * [Advisory Database](https://github.com/advisories)
+* [Audit log](https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/reviewing-the-audit-log-for-your-organization)
 * [Open source query repository](https://github.com/github/codeql)
 * [Field Code Scanning Queries](https://github.com/advanced-security/codeql-queries)
 * [Crowd-sourced custom secret patterns](https://github.com/advanced-security/secret-scanning-custom-patterns)
