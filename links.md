@@ -35,3 +35,8 @@
 * [Advanced Security at scale](https://docs.github.com/en/enterprise-cloud@latest/code-security/adopting-github-advanced-security-at-scale)
 * [GHAS enablement tool](https://github.com/NickLiffen/ghas-enablement)
 * [Bulk enablement for Code Scanning (Roadmap)](https://github.com/github/roadmap/issues/441)
+
+
+## Benchmarking
+* [Data repository](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) (slightly outdated)
+* [Presentation at Black Hat Europe 2020](https://www.youtube.com/watch?v=8AleiqQetug)
