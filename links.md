@@ -29,3 +29,9 @@
 * [Sumo Logic](https://www.sumologic.com/application/github/)
 * [Elastic](https://docs.elastic.co/integrations/github)
 * [How to integrate with other analytics platforms](https://resources.github.com/security/integrating-github-advanced-security-with-third-party-platforms/)
+
+
+## Rollout
+* [Advanced Security at scale](https://docs.github.com/en/enterprise-cloud@latest/code-security/adopting-github-advanced-security-at-scale)
+* [GHAS enablement tool](https://github.com/NickLiffen/ghas-enablement)
+* [Bulk enablement for Code Scanning (Roadmap)](https://github.com/github/roadmap/issues/441)
