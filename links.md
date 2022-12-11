@@ -14,11 +14,14 @@
 * [Supported languages and frameworks](https://codeql.github.com/docs/codeql-overview/supported-languages-and-frameworks/)
 * [Advisory Database](https://github.com/advisories)
 * [Open source query repository](https://github.com/github/codeql)
-* [Code scanning third-party integration list](https://github.com/github/advanced-security-field/blob/main/GitHub%20Advanced%20Security/Product%20Readiness/Technical%20Knowledge/Implementation/ghas-code-scanning-integrations-full.md)
 * [Field Code Scanning Queries](https://github.com/advanced-security/codeql-queries)
 * [Crowd-sourced custom secret patterns](https://github.com/advanced-security/secret-scanning-custom-patterns)
-* [GitHub public roadmap](https://github.com/orgs/github/projects/4247/)
-* [GitHub Next](https://githubnext.com/)
+
+
+## 3rd-party integrations
+* [Marketplace](https://github.com/marketplace?category=security&type=actions)
+* [Jira](https://github.com/github/ghas-jira-integration)
+* [Code scanning third-party integration list](https://github.com/github/advanced-security-field/blob/main/GitHub%20Advanced%20Security/Product%20Readiness/Technical%20Knowledge/Implementation/ghas-code-scanning-integrations-full.md)
 
 
 ## SIEM / analytics
@@ -38,5 +41,10 @@
 
 
 ## Benchmarking
-* [Data repository](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) (slightly outdated)
+* [Data repository](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 * [Presentation at Black Hat Europe 2020](https://www.youtube.com/watch?v=8AleiqQetug)
+
+
+## Roadmap
+* [Public roadmap](https://github.com/orgs/github/projects/4247/)
+* [GitHub Next](https://githubnext.com/)
