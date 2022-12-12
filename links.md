@@ -61,4 +61,5 @@
 
 ## Roadmap
 * [Public roadmap](https://github.com/orgs/github/projects/4247/)
+* [Secret Scanning Validity Checks](https://github.com/github/roadmap/issues/531)
 * [GitHub Next](https://githubnext.com/)
