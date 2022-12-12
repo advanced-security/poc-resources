@@ -59,6 +59,7 @@
 * Dependency Graph
   * [Review](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-review)
   * [Submission](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-submission)
+* Webhooks ([Code Scanning](https://docs.github.com/en/enterprise-cloud@latest/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#code_scanning_alert), [Dependabot](https://docs.github.com/en/enterprise-cloud@latest/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#dependabot_alert), [Secret Scanning](https://docs.github.com/en/enterprise-cloud@latest/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#secret_scanning_alert))
 
 
 ## Variant Analysis
