@@ -51,8 +51,8 @@
 * [Secret Scanning](https://docs.github.com/en/enterprise-cloud@latest/rest/secret-scanning)
 * [Dependabot](https://docs.github.com/en/enterprise-cloud@latest/rest/dependabot/alerts)
 * Dependency Graph
-  ** [Review](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-review)
-  ** [Submission](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-submission)
+  * [Review](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-review)
+  * [Submission](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-submission)
 
 ## Roadmap
 * [Public roadmap](https://github.com/orgs/github/projects/4247/)
