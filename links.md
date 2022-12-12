@@ -41,6 +41,10 @@
 * [Advanced Security at scale](https://docs.github.com/en/enterprise-cloud@latest/code-security/adopting-github-advanced-security-at-scale)
 * [GHAS enablement tool](https://github.com/NickLiffen/ghas-enablement)
 * [Bulk enablement for Code Scanning (Roadmap)](https://github.com/github/roadmap/issues/441)
+* [User story: Caregility (Alert Prioritization)](https://github.com/readme/guides/github-advanced-security-caregility)
+* [User story: Telus (Push Protection)](https://github.com/readme/guides/github-advanced-security-telus)
+* [User story: Mercari](https://github.com/customer-stories/mercari)
+* [More customer stories](https://github.com/customer-stories)
 
 
 ## Benchmarking
@@ -63,3 +67,6 @@
 * [Public roadmap](https://github.com/orgs/github/projects/4247/)
 * [Secret Scanning Validity Checks](https://github.com/github/roadmap/issues/531)
 * [GitHub Next](https://githubnext.com/)
+
+## Misc
+* [GitHub Security eBook](https://resources.github.com/appsec/#ghasebook)
