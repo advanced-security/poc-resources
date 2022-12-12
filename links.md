@@ -15,6 +15,7 @@
 * [Advisory Database](https://github.com/advisories)
 * [Advisory Database Documentation](https://docs.github.com/en/enterprise-cloud@latest/code-security/security-advisories/global-security-advisories/about-the-github-advisory-database)
 * [Audit log](https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/reviewing-the-audit-log-for-your-organization)
+* [Secret Scanning Patterns](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)
 * [Open source query repository](https://github.com/github/codeql)
 * [Field Code Scanning Queries](https://github.com/advanced-security/codeql-queries)
 * [Crowd-sourced custom secret patterns](https://github.com/advanced-security/secret-scanning-custom-patterns)
