@@ -62,7 +62,7 @@
 
 
 ## Variant Analysis
-* [Blog Post by external security researcher](https://blog.gypsyengineer.com/en/security/detecting-dangerous-spring-exporters-with-codeql.html)
+* [CVE-2016-1000027 (external blog post)](https://blog.gypsyengineer.com/en/security/detecting-dangerous-spring-exporters-with-codeql.html)
 
 
 ## Roadmap and Research
