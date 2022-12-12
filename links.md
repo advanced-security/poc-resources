@@ -46,6 +46,11 @@
 * [Presentation at Black Hat Europe 2020](https://www.youtube.com/watch?v=8AleiqQetug)
 
 
+## REST API
+* [Code Scanning](https://docs.github.com/en/enterprise-cloud@latest/rest/code-scanning)
+* [Secret Scanning](https://docs.github.com/en/enterprise-cloud@latest/rest/secret-scanning)
+* [Dependabot](https://docs.github.com/en/enterprise-cloud@latest/rest/dependabot/alerts)
+
 ## Roadmap
 * [Public roadmap](https://github.com/orgs/github/projects/4247/)
 * [GitHub Next](https://githubnext.com/)
