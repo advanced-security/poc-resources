@@ -55,6 +55,9 @@
   * [Review](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-review)
   * [Submission](https://docs.github.com/en/enterprise-cloud@latest/rest/dependency-graph/dependency-submission)
 
+## Variant Analysis
+* [Blog Post by external security researcher](https://blog.gypsyengineer.com/en/security/detecting-dangerous-spring-exporters-with-codeql.html)
+
 ## Roadmap
 * [Public roadmap](https://github.com/orgs/github/projects/4247/)
 * [GitHub Next](https://githubnext.com/)
